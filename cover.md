@@ -7,5 +7,5 @@
 * **机体设计图资料**
 * **任务爆图资料**
 * **机体扩展资料**
-
-[linked start](#简介)
+  
+[linked start](#SDGundam)
