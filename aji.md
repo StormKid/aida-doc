@@ -75,143 +75,149 @@
 ![ ](./imgs/A/劫掠高达.jpg ":size=500x")
 
 ------------
-## FAZZ 
+## 勇士（指挥官） 
 
-![ ](./imgs/A/FAZZ.jpg ":size=500x")
-
-------------
-## FAZZ 
-
-![ ](./imgs/A/FAZZ.jpg ":size=500x")
+![ ](./imgs/A/勇士（指挥官）.jpg ":size=500x")
 
 ------------
-## FAZZ 
+## 勇者高达 
 
-![ ](./imgs/A/FAZZ.jpg ":size=500x")
-
-------------
-## FAZZ 
-
-![ ](./imgs/A/FAZZ.jpg ":size=500x")
+![ ](./imgs/A/勇者高达.jpg ":size=500x")
 
 ------------
-## FAZZ 
+## 吉恩号 
 
-![ ](./imgs/A/FAZZ.jpg ":size=500x")
-
-------------
-## FAZZ 
-
-![ ](./imgs/A/FAZZ.jpg ":size=500x")
+![ ](./imgs/A/吉恩号.jpg ":size=500x")
 
 ------------
-## FAZZ 
+## 哈玛哈玛 
 
-![ ](./imgs/A/FAZZ.jpg ":size=500x")
-
-------------
-## FAZZ 
-
-![ ](./imgs/A/FAZZ.jpg ":size=500x")
+![ ](./imgs/A/哈玛哈玛.jpg ":size=500x")
 
 ------------
-## FAZZ 
+## 完美高达 
 
-![ ](./imgs/A/FAZZ.jpg ":size=500x")
-
-------------
-## FAZZ 
-
-![ ](./imgs/A/FAZZ.jpg ":size=500x")
+![ ](./imgs/A/完美高达.jpg ":size=500x")
 
 ------------
-## FAZZ 
+## 帕拉斯·雅典娜
 
-![ ](./imgs/A/FAZZ.jpg ":size=500x")
-
-------------
-## FAZZ 
-
-![ ](./imgs/A/FAZZ.jpg ":size=500x")
+![ ](./imgs/A/帕拉斯雅典娜.jpg ":size=500x")
 
 ------------
-## FAZZ 
+## 强袭E（卢卡斯专用） 
 
-![ ](./imgs/A/FAZZ.jpg ":size=500x")
-
-------------
-## FAZZ 
-
-![ ](./imgs/A/FAZZ.jpg ":size=500x")
+![ ](./imgs/A/强袭E（卢卡斯专用）.jpg ":size=500x")
 
 ------------
-## FAZZ 
+## 强袭红IWSP装备
 
-![ ](./imgs/A/FAZZ.jpg ":size=500x")
-
-------------
-## FAZZ 
-
-![ ](./imgs/A/FAZZ.jpg ":size=500x")
+![ ](./imgs/A/强袭红IWSP装备.jpg ":size=500x")
 
 ------------
-## FAZZ 
+## 强袭高达 
 
-![ ](./imgs/A/FAZZ.jpg ":size=500x")
-
-------------
-## FAZZ 
-
-![ ](./imgs/A/FAZZ.jpg ":size=500x")
+![ ](./imgs/A/强袭高达.jpg ":size=500x")
 
 ------------
-## FAZZ 
+## 暴风高达 
 
-![ ](./imgs/A/FAZZ.jpg ":size=500x")
-
-------------
-## FAZZ 
-
-![ ](./imgs/A/FAZZ.jpg ":size=500x")
+![ ](./imgs/A/暴风高达.jpg ":size=500x")
 
 ------------
-## FAZZ 
+## 毕格扎姆 
 
-![ ](./imgs/A/FAZZ.jpg ":size=500x")
-
-------------
-## FAZZ 
-
-![ ](./imgs/A/FAZZ.jpg ":size=500x")
+![ ](./imgs/A/毕格扎姆.jpg ":size=500x")
 
 ------------
-## FAZZ 
+## 深渊高达 
 
-![ ](./imgs/A/FAZZ.jpg ":size=500x")
-
-------------
-## FAZZ 
-
-![ ](./imgs/A/FAZZ.jpg ":size=500x")
+![ ](./imgs/A/深渊高达.jpg ":size=500x")
 
 ------------
-## FAZZ 
+## 混沌高达 
 
-![ ](./imgs/A/FAZZ.jpg ":size=500x")
-
-------------
-## FAZZ 
-
-![ ](./imgs/A/FAZZ.jpg ":size=500x")
+![ ](./imgs/A/混沌高达.jpg ":size=500x")
 
 ------------
-## FAZZ 
+## 灾厄高达 
 
-![ ](./imgs/A/FAZZ.jpg ":size=500x")
-
-------------
-## FAZZ 
-
-![ ](./imgs/A/FAZZ.jpg ":size=500x")
+![ ](./imgs/A/灾厄高达.jpg ":size=500x")
 
 ------------
+## 炮Z 
+
+![ ](./imgs/A/炮Z.jpg ":size=500x")
+
+------------
+## 独角兽 
+
+![ ](./imgs/A/独角兽.jpg ":size=500x")
+
+------------
+## 猎犬 
+
+![ ](./imgs/A/猎犬.jpg ":size=500x")
+
+------------
+## 瓦尔·瓦洛
+
+![ ](./imgs/A/瓦尔瓦洛.jpg ":size=500x")
+
+------------
+## 盖亚 
+
+![ ](./imgs/A/盖亚.jpg ":size=500x")
+
+------------
+## 神盾高达 
+
+![ ](./imgs/A/神盾高达.jpg ":size=500x")
+
+------------
+## 精神感应高达 
+
+![ ](./imgs/A/精神感应高达.jpg ":size=500x")
+
+------------
+## 维基那·吉娜 
+
+![ ](./imgs/A/维基那基娜.jpg ":size=500x")
+
+------------
+## 脉冲高达 
+
+![ ](./imgs/A/脉冲高达.jpg ":size=500x")
+
+------------
+## 艾尔美斯 
+
+![ ](./imgs/A/艾尔美斯.jpg ":size=500x")
+
+------------
+## 贝尔加·基诺斯 
+
+![ ](./imgs/A/贝尔加基洛斯.jpg ":size=500x")
+
+------------
+## 迅雷高达 
+
+![ ](./imgs/A/迅雷高达.jpg ":size=500x")
+
+------------
+## 闪光高达 
+
+![ ](./imgs/A/闪光高达.jpg ":size=500x")
+
+------------
+## 阿普萨拉斯II 
+
+![ ](./imgs/A/阿普萨拉斯II.jpg ":size=500x")
+
+------------
+## 飞翼零式 
+
+![ ](./imgs/A/飞翼零式.jpg ":size=500x")
+
+------------
+
