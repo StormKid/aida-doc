@@ -1,3 +1,3 @@
-# Headline
+# SD GUNDAM
 
-> An awesome project.
+> 各种机体资料
